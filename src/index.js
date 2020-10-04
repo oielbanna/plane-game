@@ -5,7 +5,6 @@ import Scene from "./Scene";
 import "./styles.css";
 
 // https://codepen.io/Zultan/pen/mwGZBP
-// https://codepen.io/carrot-e/pen/WGkJBZ
 function App() {
   return (
     <div className="App">
